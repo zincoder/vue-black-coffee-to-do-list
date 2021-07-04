@@ -1,3 +1,4 @@
+<!--기존 TodoList.vue만 사용 -> TodoInput.vue, TodoList.vue, TodoStatus.vue 총 3개의 컴포넌트로 나눠서 적용해보기 -->
 <!--localStorage 값형태 json object형식으로 변경 -->
 <!--localStorage내부 completed는 변경 안하고 dynamicLists에 completed만 변경하고 있음 그래서 새로고침시 다 false -->
 <template>
